@@ -45,6 +45,8 @@ This project is a Course Planner application developed using Java and Spring Boo
 - `GET /api/watchers/{watcherID}`: Returns information about a watcher
 - `DELETE /api/watchers/{watcherID}`: Deletes a watcher
 
+REST API was also used in this project for communication between the client and the server.
+
 ## Testing
 
 Run `./gradlew test` to execute the test cases.
